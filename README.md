@@ -3,6 +3,10 @@
 ### tl;dr 
 Karabiner Elements .json file to enable YubiKey output only with a modifier key (caps lock) pressed. This prevents you chatting to people fjsdjhkjahsdkjahslkjsdhgskjdvnskdbvsjkdb.
 
+### What's different in this fork?
+Prevents accidental Yubikey input when you're holding a modifier key (e.g. CMD, which would otherwise trigger a lot of shortcuts leads to awestruck)
+
+
 ### Installing
 
 1. Install [Karabiner Elements](https://karabiner-elements.pqrs.org)
